@@ -27,10 +27,7 @@
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Core\Application\Features\CQRS\Commands\" />
-    <Folder Include="Core\Application\Features\CQRS\Handlers\" />
-    <Folder Include="Core\Application\Features\CQRS\Queries\" />
     <Folder Include="Core\Application\Enums\" />
-    <Folder Include="Core\Application\Mappings\" />
     <Folder Include="Persistance\Migrations\" />
   </ItemGroup>
 
