@@ -25,9 +25,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Core\Application\Features\CQRS\Commands\" />
-    <Folder Include="Core\Application\Enums\" />
     <Folder Include="Persistance\Migrations\" />
   </ItemGroup>
 
