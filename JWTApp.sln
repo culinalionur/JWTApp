@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTApp", "JWTApp\JWTApp.csproj", "{3AF5A8FD-F682-41C3-B454-96C1A1CFF91E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAppUI", "JwtAppUI\JwtAppUI.csproj", "{A2CEF3F1-D104-44FE-8631-333232ABCB56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3AF5A8FD-F682-41C3-B454-96C1A1CFF91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AF5A8FD-F682-41C3-B454-96C1A1CFF91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AF5A8FD-F682-41C3-B454-96C1A1CFF91E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2CEF3F1-D104-44FE-8631-333232ABCB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CEF3F1-D104-44FE-8631-333232ABCB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CEF3F1-D104-44FE-8631-333232ABCB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CEF3F1-D104-44FE-8631-333232ABCB56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
